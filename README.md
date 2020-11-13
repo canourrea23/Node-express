@@ -96,3 +96,10 @@ module.exports = {
     subtract,
 }
 ```
+
+6. After adding the modules make sure you don't push that to github. you can hide the modules bu creating .gitignore and place the module file
+
+```
+node_modules
+```
+
